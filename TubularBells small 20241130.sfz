@@ -1,0 +1,49 @@
+//+ Name: Tubular Bells (small)
+//+ Date: 2024-11-30
+//+ URL: http://freepats.zenvoid.org/ChromaticPercussion/tubular-bells.html
+
+<global>
+ //+ Instrument: Tubular Bells
+ ampeg_release=2
+
+<group>
+<region>
+ lokey=57 hikey=61
+ pitch_keycenter=60
+ sample=samples/small/C4.flac
+<region>
+ lokey=62 hikey=63
+ pitch_keycenter=62
+ sample=samples/small/D4.flac
+<region>
+ lokey=64 hikey=65
+ pitch_keycenter=64
+ sample=samples/small/E4.flac
+<region>
+ lokey=66 hikey=67
+ pitch_keycenter=66
+ sample=samples/small/F#4.flac
+<region>
+ lokey=68 hikey=69
+ pitch_keycenter=68
+ sample=samples/small/G#4.flac
+<region>
+ lokey=70 hikey=71
+ pitch_keycenter=70
+ sample=samples/small/A#4.flac
+<region>
+ lokey=72 hikey=73
+ pitch_keycenter=72
+ sample=samples/small/C5.flac
+<region>
+ lokey=74 hikey=75
+ pitch_keycenter=74
+ sample=samples/small/D5.flac
+<region>
+ lokey=76 hikey=79
+ pitch_keycenter=76
+ sample=samples/small/E5.flac
+<region>
+ lokey=80 hikey=85
+ pitch_keycenter=82
+ sample=samples/small/A#5.flac
